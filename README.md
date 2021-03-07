@@ -24,8 +24,9 @@ python3 main.py 1 -2 3 5 --roots
 ```
 
 ### With the respective output
+![alt text](https://github.com/ionutraresm/cli-mathlib/blob/master/output/Screenshot%20from%202021-03-07%2018-21-29.png "Graph")
 
-
+![alt text](https://github.com/ionutraresm/cli-mathlib/blob/master/output/Screenshot%20from%202021-03-07%2018-21-55.png)
 
 
 

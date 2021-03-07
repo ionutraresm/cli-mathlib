@@ -3,12 +3,12 @@
 1. Conditional Arguments: "coeff" - a list of polynomial coefficients
 
 2. Optional Arguments (flags):
-	..* --roots "Plot the root points"
-	..* --min-max "Plot the min-max points"
-	..* --inflection "Plot the inflection points"
-	..* --graph "Polynomial function graph with the given coefficients"
-	..* --first-derivative "First derivative polynomial with the given coefficients"
-	..* --second-derivative "Second derivative polynomial with the given coefficients"
+	* --roots "Plot the root points"
+	* --min-max "Plot the min-max points"
+	* --inflection "Plot the inflection points"
+	* --graph "Polynomial function graph with the given coefficients"
+	* --first-derivative "First derivative polynomial with the given coefficients"
+	* --second-derivative "Second derivative polynomial with the given coefficients"
 
 
 ### Here's a command example
